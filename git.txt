@@ -1,0 +1,20 @@
+Configuração do git
+
+
+1) Abrir o git bash na pasta
+2) git init
+3) Criar no VS o README.md, requirements.txt, .gitignore
+4) Criar repositorio no github
+5) comandos no git
+git add .                                                                 
+git commit -m "Inicializa projeto de checklist de qualidade de dados"
+
+git remote add origin git@github.com:seu-usuario/seu-repo.git
+git branch -M main
+git push -u origin main
+
+6) Caso precise trocar o destino remoto
+git remote remove origin
+
+
+git --help
