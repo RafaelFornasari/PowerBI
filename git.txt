@@ -9,12 +9,15 @@ Configuração do git
 git add .                                                                 
 git commit -m "Inicializa projeto de checklist de qualidade de dados"
 
+
 git remote add origin git@github.com:seu-usuario/seu-repo.git
 git branch -M main
+
+
 git push -u origin main
 
 6) Caso precise trocar o destino remoto
 git remote remove origin
-
+git remote -v )diagnosticar qual url está configurada
 
 git --help

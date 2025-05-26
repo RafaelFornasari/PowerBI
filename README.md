@@ -7,9 +7,7 @@ Este repositório reúne projetos desenvolvidos no Power BI com o objetivo de ex
 -modelo-
 | Projeto | Tema | F. de Dados | Status |
 |---------------------------------------------------------------|----------------------------|--------------|----------------|
-| [📈 Desigualdade Social no Brasil](./01-desigualdade-social) | Indicadores socioeconômicos | IBGE / PNAD | ✅ Finalizado |
-| [🏥 Gastos Públicos em Saúde](./02-gastos-saude) | Orçamento público | DataSUS | ✅ Finalizado |
-| [🌳 Desmatamento na Amazônia](./03-desmatamento-amazonia) | Meio ambiente | INPE | 🚧 Em andamento |
+| [📈 Desempenho_Marketing](./01-desempenho_marketing)| Indicadores campanha marketing | Kraglle | ✅ Finalizado |
 
 ---
 

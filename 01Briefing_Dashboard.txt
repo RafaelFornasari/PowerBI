@@ -1,0 +1,77 @@
+# 📊 Briefing de Dashboard: Análise de Clientes – Campanha de Marketing
+
+## 🎯 Objetivo Geral
+
+Criar um painel para entender **quem são nossos clientes**, **como consomem**, e **quem responde melhor às campanhas de marketing**.
+
+---
+
+## 🟦 Seção 1: Visão Geral
+
+**Objetivo:** Obter leitura rápida da performance geral da base.
+
+**Métricas desejadas:**
+- 🔢 **Total de Clientes**
+- 💵 **Gasto Médio por Cliente**
+- 🎯 **% de Resposta às Campanhas**
+- 🧍‍♂️ **% de Clientes que reclamaram**
+- 📊 Cartões com contagem por **Status Civil** e **Educação**
+
+---
+
+## 🟩 Seção 2: Perfil dos Clientes
+
+**Objetivo:** Compreender o público-alvo da base.
+
+**Visuais esperados:**
+- 📊 Gráfico de colunas por **Faixa de Renda**
+- 🎂 Distribuição por **faixa etária**
+- 🎓 Gráfico de barras por **nível educacional**
+- 💍 Gráfico de barras por **Status Civil**
+- 🧒👩‍🎓 Indicador de **clientes com filhos** (Kidhome + Teenhome)
+
+---
+
+## 🟧 Seção 3: Comportamento de Compra
+
+**Objetivo:** Entender onde e como os clientes compram.
+
+**Visuais esperados:**
+- 📊 Gasto médio por canal:
+  - NumWebPurchases
+  - NumCatalogPurchases
+  - NumStorePurchases
+- 📉 Total de gastos por **faixa de renda**
+- 📈 Gasto médio por **nível educacional**
+
+---
+
+## 🟥 Seção 4: Resposta às Campanhas
+
+**Objetivo:** Avaliar propensão de diferentes perfis em responder às campanhas.
+
+**Visuais esperados:**
+- 📊 % de resposta por:
+  - Faixa de Renda
+  - Educação
+  - Status Civil
+- 📉 Comparativo: **clientes que não responderam × Total_Gastos**
+
+---
+
+## 🟨 Seção 5: Antiguidade e Retenção
+
+**Objetivo:** Analisar tempo de relacionamento dos clientes com a empresa.
+
+**Visuais esperados:**
+- ⌛ Distribuição por **Ano_Entrada**
+- 📈 Gasto médio por **tempo de cadastro** (Ano_Entrada_Qntd)
+
+---
+
+## ✅ Entrega Esperada
+
+- Layout limpo e seções bem separadas
+- Segmentadores por **Faixa de Renda**, **Educação** e **Ano de Entrada**
+- KPIs no topo (Total, Gasto Médio, % Resposta, % Reclamação)
+- Gráficos claros, com **título estratégico**
